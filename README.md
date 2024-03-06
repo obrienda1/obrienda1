@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently a student with Tech Elevator. Nice to meet you!
+
 <!--
 **obrienda1/obrienda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
